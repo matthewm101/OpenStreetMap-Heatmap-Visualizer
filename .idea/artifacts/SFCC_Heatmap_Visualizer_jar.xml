@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SFCC Heatmap Visualizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SFCC_Heatmap_Visualizer_jar</output-path>
+    <root id="archive" name="SFCC Heatmap Visualizer.jar">
+      <element id="module-output" name="SFCC Heatmap Visualizer" />
+    </root>
+  </artifact>
+</component>
